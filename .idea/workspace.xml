@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73139923-044b-4d1e-a6df-3b6e35d58af9" name="Changes" comment="Tema 10 Primul exercitiu." />
+    <list default="true" id="73139923-044b-4d1e-a6df-3b6e35d58af9" name="Changes" comment="Tema 10 Primul exercitiu -" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,13 +98,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715792644265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tema 10 Primul exercitiu -">
+      <option name="closed" value="true" />
+      <created>1715793259691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715793259691</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema 10 H" />
     <MESSAGE value="Tema 10 Primul exercitiu" />
     <MESSAGE value="Tema 10 Primul exercitiu." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema 10 Primul exercitiu." />
+    <MESSAGE value="Tema 10 Primul exercitiu -" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema 10 Primul exercitiu -" />
   </component>
 </project>
