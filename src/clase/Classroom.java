@@ -10,7 +10,7 @@ public class Classroom {
         this.grades = grades;
     }
 //
-    //
+
     public List<Integer> getGradesForDiscipline(String discipline) {
         List<Integer> gradesForDiscipline = new ArrayList<>();
         for (StudentGrade grade : grades) {
