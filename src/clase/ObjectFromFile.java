@@ -17,6 +17,6 @@ public class ObjectFromFile {
             System.out.println(p);
         }
         }
-
+//
 }
 
